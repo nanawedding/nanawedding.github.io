@@ -12,6 +12,7 @@ color: #fef3cc;
        font-size: 2em;
     padding-top: 1em;
     padding-bottom: 2.389em;
+    font-family: 'Calligraffitti', cursive;
 }
 
 #welcome {
@@ -20,15 +21,6 @@ color: #F6EC72;
     font-size: 5.5em;
     padding-top: 1.5%;
     padding-bottom: 2%;
-}
-
-
-#mont {
-font-family: 'Calligraffitti', cursive;
-}
-
-.abc {
-font-family: 'Calligraffitti', cursive;
 }
 
 #visit {
@@ -69,5 +61,4 @@ text-decoration: none;
     text-align: center;
     padding: 0.8%;
 	margin-bottom: 1.5%;
-}
-
+} 
